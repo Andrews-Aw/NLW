@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat
 
-[clique aqui para visualizar] (https://andrews-aw.github.io/NLW/)
+[clique aqui para visualizar](https://andrews-aw.github.io/NLW/)
 
 ##  Tecnologias
 
