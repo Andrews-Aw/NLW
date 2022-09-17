@@ -9,7 +9,7 @@
     }
 
 body {
-    
+    background-image: url(./Assets/bgborne.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
